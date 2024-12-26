@@ -13,7 +13,7 @@ body {
 
 h1 {
     text-align: center;
-    font-size: 80px;
+    font-size: 50px;
 }
 
 .container {
@@ -26,8 +26,8 @@ h1 {
     font-size: 35px;
     background-color: chocolate;
     margin: 5px;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
